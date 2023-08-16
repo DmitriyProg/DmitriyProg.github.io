@@ -10,8 +10,7 @@
   </a>  
   <img src="https://komarev.com/ghpvc/?username=DmitriyProg&style=flat-square&color=blue" alt=""/>
 </div>
-
+---
 ### :fire: My Stats :
-<div id="Stats" align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitriyProg&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyProg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
