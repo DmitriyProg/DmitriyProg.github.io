@@ -8,4 +8,5 @@
   <a href="https://t.me/dmitriy_nat">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>  
+  <img src="https://komarev.com/ghpvc/?username=DmitriyProg&style=flat-square&color=blue" alt=""/>
 </div>
